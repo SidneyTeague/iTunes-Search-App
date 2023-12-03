@@ -26,5 +26,4 @@ The video should be about 5-10 minutes and should cover,
 - What would you change if you were to continue to work on the app.
   
 3. Submit two links: One for the video, and one for your public or private GitHub repository (created by you).
-4. 
-![alt text]([https://github.com/SidneyTeague/iTunes-Search-App/tree/main/Docs](https://github.com/SidneyTeague/iTunes-Search-App/blob/main/Docs/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-12-03%20at%2015.11.44.png)https://github.com/SidneyTeague/iTunes-Search-App/blob/main/Docs/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-12-03%20at%2015.11.44.png)
+   
