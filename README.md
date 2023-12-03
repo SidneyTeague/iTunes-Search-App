@@ -27,4 +27,4 @@ The video should be about 5-10 minutes and should cover,
   
 3. Submit two links: One for the video, and one for your public or private GitHub repository (created by you).
 4. 
-![alt text](https://github.com/)
+![alt text](https://github.com/SidneyTeague/iTunes-Search-App/tree/main/Docs)
